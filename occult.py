@@ -1,5 +1,4 @@
 import wx
-from os import path
 from pygame import font, image, surface
 
 class ClockFrame(wx.Frame):

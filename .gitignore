@@ -34,3 +34,9 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# Pyinstaller specfile
+*.spec
+
+# Fonts for testing
+*.ttf

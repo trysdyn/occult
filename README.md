@@ -11,7 +11,7 @@ Getting occult
 ------------------
 Github hosts the source for occult, you can check that out at [https://github.com/trysdyn/occult](https://github.com/trysdyn/occult). If you plan to run occult from source, please make sure you meet the requirements below.
 
-To get a binary you can run on a Windows system, without needing to meet the source version requirements, please visit [http://www.voidfox.com/projects/occult](http://www.voidfox.com/projects/occult.html). This binary is pretty hefty, due to needing to bundle the Python runtimes with it; source is recommended if at all possible.
+To get a binary you can run on a Windows system, without needing to meet the source version requirements, please visit [http://www.voidfox.com/projects/occult.html](http://www.voidfox.com/projects/occult.html). This binary is pretty hefty, due to needing to bundle the Python runtimes with it; source is recommended if at all possible.
 
 Requirements (source version)
 -----------------------------
